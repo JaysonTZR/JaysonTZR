@@ -3,16 +3,15 @@
   <div style="flex: 1;">
     <ul>
       <li>🔭 I’m currently working on a warehouse project</li>
-      <li>🌱 I’m currently learning CodeIgniter4, ReactJS and React</li>
-      <li>📫 How to reach me tanzhirong03@gmail.com</li>
+      <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
+      <li>📫 How to reach me: <a href="mailto:tanzhirong03@gmail.com">tanzhirong03@gmail.com</a></li>
     </ul>
   </div>
+
   <div style="flex: 1;">
-    <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="372" height="279" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="372" height="279" alt="Programming GIF">
   </div>
 </div>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jaysontzr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayson_zr) 
