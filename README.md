@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayson Tan Zhi Rong</h1>
-<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="304" height="228" alt="Programming GIF">
+<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="152" height="114" alt="Programming GIF">
 <ul>
   <li>🔭 I’m currently working on a warehouse project</li>
   <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
