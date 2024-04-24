@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 I’m currently working on a warehouse project</li>
   <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
-  <li>📫 How to reach me: <a href="mailto:tanzhirong03@gmail.com">tanzhirong03@gmail.com</a></li>
+  <li>📫 How to reach me: [📬](mailto:tanzhirong03@gmail.com)</li>
   <li>💬 Ask me about anything</li>
 </ul>
 
@@ -25,5 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JaysonTZR&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
