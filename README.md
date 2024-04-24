@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayson Tan Zhi Rong</h1>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 20px;">
     <ul>
       <li>🔭 I’m currently working on a warehouse project</li>
       <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
@@ -9,7 +9,8 @@
   </div>
 
   <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="372" height="279" alt="Programming GIF">
+    <!-- Replacing the iframe with a direct image source -->
+    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="304" height="228" alt="Programming GIF">
   </div>
 </div>
 
