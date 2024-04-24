@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaysontzr&label=Profile%20views&color=0e75b6&style=flat" alt="jaysontzr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysontzr" alt="jaysontzr" /></a> </p>
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="360" alt="Programming GIF">
+</p>
 
 - 🌱 I’m currently learning **CodeIgniter4, ReactJS and React**
 
