@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayson Tan Zhi Rong</h1>
-<div style="display: flex;">
+<div style="display: flex; justify-content: flex;">
   <div style="flex: 1; padding-right: 20px;">
     <ul>
       <li>🔭 I’m currently working on a warehouse project</li>
