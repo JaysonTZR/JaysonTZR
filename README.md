@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayson Tan Zhi Rong</h1>
-<div style="display: flex; justify-content: flex;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>🔭 I’m currently working on a warehouse project</li>
-      <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
-      <li>📫 How to reach me: <a href="mailto:tanzhirong03@gmail.com">tanzhirong03@gmail.com</a></li>
-    </ul>
-  </div>
-
-  <div style="flex: 1;">
-    <!-- Replacing the iframe with a direct image source -->
-    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="304" height="228" alt="Programming GIF">
-  </div>
-</div>
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="304" height="228" alt="Programming GIF">
+<ul>
+  <li>🔭 I’m currently working on a warehouse project</li>
+  <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
+  <li>📫 How to reach me: <a href="mailto:tanzhirong03@gmail.com">tanzhirong03@gmail.com</a></li>
+</ul>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jaysontzr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayson_zr) 
