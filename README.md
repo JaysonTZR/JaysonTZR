@@ -3,9 +3,9 @@
 <ul>
   <li>🔭 I’m currently working on a warehouse project</li>
   <li>🌱 I’m currently learning CodeIgniter4, ReactJS, and React</li>
-  <li>📫 How to reach me: [📬](mailto:tanzhirong03@gmail.com)</li>
   <li>💬 Ask me about anything</li>
 </ul>
+📫 How to reach me: [📬](mailto:tanzhirong03@gmail.com)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jaysontzr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayson_zr) 
