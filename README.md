@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysontzr" alt="jaysontzr" /></a> </p>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="360" alt="Programming GIF">
-</p>
-
-- 🌱 I’m currently learning **CodeIgniter4, ReactJS and React**
-
-- 📫 How to reach me **tanzhirong03@gmail.com**
+<div style="display: flex; align-items: center;">
+  <div>
+    - 🌱 I’m currently learning <strong>CodeIgniter4, ReactJS and React</strong><br>
+    - 📫 How to reach me <strong>tanzhirong03@gmail.com</strong>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="360" alt="Programming GIF">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
