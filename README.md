@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jayson Tan Zhi Rong</h1>
-🔭 I’m currently working on a warehouse project<br>🌱 I’m currently learning CodeIgniter4, ReactJS and React<br>📫 How to reach me tanzhirong03@gmail.com
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🔭 I’m currently working on a warehouse project</li>
+      <li>🌱 I’m currently learning CodeIgniter4, ReactJS and React</li>
+      <li>📫 How to reach me tanzhirong03@gmail.com</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="372" height="279" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+  </div>
+</div>
 
 
 ## 🌐 Socials:
