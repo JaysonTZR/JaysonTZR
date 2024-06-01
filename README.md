@@ -8,14 +8,14 @@
 
 ### 🚧 Project:
 <ul>
-  <li>📦 Currently working on a warehouse project using complex stock management logic</li>
-  <li>📰 Plan on creating portfolio for the upcoming project</li>
+  <li>📦 Currently working on my final year project</li>
+<!--   <li>📰 Plan on creating portfolio for the upcoming project</li> -->
 </ul>
 
 ### 💻 Learning:
 <ul>
   <li>🛠️ Improving my CodeIgniter4 and ReactJS language skills through projects</li>
-  <li>🛠️ Plan on learning React Native⚛️</li>
+  <li>🛠️ Learning React Native⚛️</li>
 </ul>
 </br>
 🌟 Let's Connect: I'm all about collaboration and lifelong learning. Let's chat and code something awesome together!
