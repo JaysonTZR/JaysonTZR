@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="240" height="170" alt="Programming GIF">
 
 <ul>
-  <li>📕 Currently majoring Bachelor of Science (Hons) in Asia Pacific University </li>
+  <li>📕 Currently majoring Bachelor of Science (Hons) in Software Engineering in Asia Pacific University </li>
   <li>🖊️ Passionate about crafting awesome experiences for mobile and web.</li>
 </ul>
 
